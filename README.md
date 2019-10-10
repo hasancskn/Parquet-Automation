@@ -1,2 +1,2 @@
 # Parquet-Automation
-#Parkeci Otomasyonu
+Parkeci Otomasyonu
